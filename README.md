@@ -16,4 +16,4 @@ An ETL pipeline for Formula 1 fans! It extracts, transforms, and loads race data
 
 📫 Feel free to reach out or check out my repositories or portfolio to see what I’m working on!
 
-![Static Badge](https://img.shields.io/badge/My_links-black?style=for-the-badge&logo=rocket&logoColor=%23ffffff&logoSize=auto&link=https%3A%2F%2Fliens.noahbuisson.fr)  ![Static Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FNoch22)  ![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FNoch22)
+[![Static Badge](https://img.shields.io/badge/My_links-black?style=for-the-badge&logo=rocket&logoColor=%23ffffff&logoSize=auto)](https://liens.noahbuisson.fr)  [![Static Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black&logoSize=auto)](https://github.com/Noch22)  [![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logoSize=auto)](https://www.linkedin.com/in/noahbuisson/)
